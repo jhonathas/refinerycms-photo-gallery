@@ -8,7 +8,8 @@ gem 'refinerycms', '~> 2.0.3'
 
 # -- Cloud storage
 # AWS S3 support. Can be disabled if using local file system instead of cloud storage.
-#gem 'fog'
+gem 'carrierwave'
+gem 'fog'
 
 # -- Photo resizing
 # MiniMagick
