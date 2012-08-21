@@ -1,0 +1,13 @@
+<% content_for :body_content_right do %>
+  <% if message_collections_length_is_zero %>
+    <h1 id='body_content_title' style='padding-top: 50px;'>
+      <%= message_collections_length_is_zero  %>
+    </h1>
+  <% end %>
+<% end %>
+
+<% content_for :body_content_left do %>
+  <%= render :partial=> "refinery/photo_gallery/shared/submenu" %>
+<% end %>
+
+<%= render :partial=> "refinery/photo_gallery/shared/layout" %>
