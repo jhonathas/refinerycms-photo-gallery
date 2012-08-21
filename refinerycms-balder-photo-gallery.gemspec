@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
   s.summary           = %q{Ruby on Rails photo gallery engine for Refinery CMS.}
   s.email             = %q{espen@inspired.no, martin.markech@matho.sk, jerry@6hoursdaily.com}
   s.homepage          = %q{http://github.com/6hoursdaily/refinerycms-photo-gallery}
-  s.authors           = ['Espen Antonsen', 'Martin Markech', 'Jerry Pascua]
+  s.authors           = ['Espen Antonsen', 'Martin Markech', 'Jerry Pascua']
   s.require_paths     = %w(lib)
 
   s.files             = `git ls-files`.split("\n")
