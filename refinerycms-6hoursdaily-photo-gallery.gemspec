@@ -12,7 +12,7 @@ Gem::Specification.new do |s|
   # s.version           = version
   s.description       = %q{Forked and modified photo gallery engine from Martin Markech designed for integration with Refinery CMS.}
   s.summary           = %q{Ruby on Rails photo gallery engine for Refinery CMS.}
-  s.email             = %q{jerry@6hoursdaily.com}
+  s.email             = %q{jerrypascua@gmail.com}
   s.homepage          = %q{http://github.com/6hoursdaily/refinerycms-photo-gallery}
   s.authors           = ['Jerry Pascua']
   s.require_paths     = %w(lib)
