@@ -17,7 +17,7 @@ Gem::Specification.new do |s|
   s.authors           = ['Jerry Pascua']
   s.require_paths     = %w(lib)
 
-  s.rubyforge_project = "refinerycms-photo-gallery"
+  # s.rubyforge_project = "refinerycms-photo-gallery"
 
   s.files             = `git ls-files`.split("\n")
   s.test_files        = `git ls-files -- spec/*`.split("\n")
