@@ -2,14 +2,14 @@ source 'http://rubygems.org'
 
 gemspec
 
-gem 'refinerycms', '~> 2.0.3'
+# gem 'refinerycms', '~> 2.0.3'
 
 #loading from gemspec
 
 # -- Cloud storage
 # AWS S3 support. Can be disabled if using local file system instead of cloud storage.
-gem 'carrierwave'
-gem 'fog'
+# gem 'carrierwave'
+# gem 'fog'
 
 # -- Photo resizing
 # MiniMagick
