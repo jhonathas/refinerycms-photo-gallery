@@ -6,7 +6,7 @@ require 'refinery/photo_gallery/version'
 # version = '0.1'
 
 Gem::Specification.new do |s|
-  s.name              = %q{refinerycms-photo-gallery}
+  s.name              = %q{refinerycms-6hoursdaily-photo-gallery}
   s.version           = Refinery::PhotoGallery::Version.to_s
   s.platform          = Gem::Platform::RUBY
   # s.version           = version
@@ -17,7 +17,7 @@ Gem::Specification.new do |s|
   s.authors           = ['6hoursdaily']
   s.require_paths     = %w(lib)
 
-  # s.rubyforge_project = "refinerycms-photo-gallery"
+  s.rubyforge_project = "refinerycms-6hoursdaily-photo-gallery"
 
   s.files             = `git ls-files`.split("\n")
   s.test_files        = `git ls-files -- spec/*`.split("\n")
