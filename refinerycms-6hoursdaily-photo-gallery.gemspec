@@ -10,11 +10,11 @@ Gem::Specification.new do |s|
   s.version           = Refinery::PhotoGallery::Version.to_s
   s.platform          = Gem::Platform::RUBY
   # s.version           = version
-  s.description       = %q{Forked photo gallery engine from Martin Markech designed for integration with Refinery CMS.}
+  s.description       = %q{Forked and modified photo gallery engine from Martin Markech designed for integration with Refinery CMS.}
   s.summary           = %q{Ruby on Rails photo gallery engine for Refinery CMS.}
-  s.email             = %q{espen@inspired.no, martin.markech@matho.sk, jerry@6hoursdaily.com}
+  s.email             = %q{jerry@6hoursdaily.com}
   s.homepage          = %q{http://github.com/6hoursdaily/refinerycms-photo-gallery}
-  s.authors           = ['Espen Antonsen', 'Martin Markech', 'Jerry Pascua']
+  s.authors           = ['Jerry Pascua']
   s.require_paths     = %w(lib)
 
   # s.rubyforge_project = "refinerycms-photo-gallery"
