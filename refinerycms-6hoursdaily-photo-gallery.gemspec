@@ -14,7 +14,7 @@ Gem::Specification.new do |s|
   s.summary           = %q{Ruby on Rails photo gallery engine for Refinery CMS.}
   s.email             = %q{jerrypascua@gmail.com}
   s.homepage          = %q{http://github.com/6hoursdaily/refinerycms-photo-gallery}
-  s.authors           = ['Jerry Pascua']
+  s.authors           = ['6hoursdaily']
   s.require_paths     = %w(lib)
 
   # s.rubyforge_project = "refinerycms-photo-gallery"
