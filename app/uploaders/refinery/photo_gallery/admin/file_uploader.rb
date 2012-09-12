@@ -24,7 +24,7 @@ module Refinery
             "#{Rails.root.to_s}/tmp/uploads" if ENV['HEROKU'] == 'true'
           end
         else
-          raise 'no S3 Account found'
+          raise 'no S3 vars found in server'
           # storage :file
 
           # def cache_dir
