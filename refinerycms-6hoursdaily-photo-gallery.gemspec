@@ -7,7 +7,7 @@ require 'refinery/photo_gallery/version'
 
 Gem::Specification.new do |s|
   s.name              = %q{refinerycms-6hoursdaily-photo-gallery}
-  s.version           = Refinery::PhotoGallery::Version.to_s
+  s.version           = 1
   s.platform          = Gem::Platform::RUBY
   # s.version           = version
   s.description       = %q{Forked and modified photo gallery engine from Martin Markech designed for integration with Refinery CMS.}
